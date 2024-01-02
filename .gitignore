@@ -62,4 +62,4 @@ typings/
 
 # Parcel related files
 dist/
-.cache/
+.cache/node_modules/
