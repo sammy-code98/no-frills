@@ -1,0 +1,14 @@
+{
+  "name": "no-frills",
+  "version": "1.0.0",
+  "description": "sample code to for landing page without frontend frameworks",
+  "main": "index.js",
+  "repository": "https://github.com/sammy-code98/no-frills.git",
+  "author": "sammy-code98 <sammysmart98@yahoo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0"
+  }
+}
