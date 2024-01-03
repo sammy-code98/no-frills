@@ -6,9 +6,20 @@
   "repository": "https://github.com/sammy-code98/no-frills.git",
   "author": "sammy-code98 <sammysmart98@yahoo.com>",
   "license": "MIT",
+  "source": "./src/html/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
   "devDependencies": {
     "parcel": "^2.10.3",
     "postcss": "^8.4.32",
+    "posthtml-doctype": "^1.1.1",
+    "posthtml-include": "^1.7.4",
+    "posthtml-modules": "^0.9.1",
     "tailwindcss": "^3.4.0"
+  },
+  "dependencies": {
+    "@parcel/transformer-posthtml": "^2.10.3"
   }
 }
