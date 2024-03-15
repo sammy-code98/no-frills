@@ -5,3 +5,4 @@ Simple landing page template demonstrating how to structure you codebase without
 
 ## Demo
 
+![](https://github.com/sammy-code98/no-frills/blob/main/src/assets/no-frills.gif)
